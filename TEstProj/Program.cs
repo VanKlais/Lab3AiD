@@ -12,6 +12,7 @@ namespace TEstProj
             Console.WriteLine("liz");
             int a = 8 + 13;//om Илюши
             Console.WriteLine(a, " А илюша молодец");
+            //Мама примет бог простит \\ от Сережи  
         }
     }
 }
